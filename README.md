@@ -24,7 +24,7 @@ Anos trabalhando com pessoas, hard skills estão todas em dia!
 
 ## 📂 Projetos:
 
-### [Projeto 1 - Portfolio Web](#)
+### [Projeto 1 - Conjunto de Links](https://guifacchini.github.io/projetolinkbio/)
 - Um site de portfólio desenvolvido com HTML, CSS e JavaScript.
 - Demonstra habilidades em design responsivo e boas práticas de código.
 
