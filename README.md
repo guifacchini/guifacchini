@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Guilherme Facchini!
 
-💻 **Aspirante a Dev FullStack** | Em transição de carreira e explorando novas possibilidades no universo do desenvolvimento.
+💻 **Aspirante a Dev BackEnd com foco em Java** | Em transição de carreira e explorando novas possibilidades no universo do desenvolvimento.
 
 ---
 
 ## 🚀 Sobre mim:
 
-Depois de anos de experiência em outra área, decidi seguir minha paixão por tecnologia e programação. Estou dedicando meu tempo e energia para aprender as habilidades necessárias para me tornar um desenvolvedor FullStack completo. Meu objetivo é unir lógica, criatividade e boas práticas para construir soluções que impactem positivamente as pessoas e empresas.
+Depois de anos de experiência em outra área, decidi seguir minha paixão por tecnologia e programação. Estou dedicando meu tempo e energia para aprender as habilidades necessárias para me tornar um desenvolvedor BackEnd com um interesse crescente por Java. Meu objetivo é unir lógica, criatividade e boas práticas para construir soluções que impactem positivamente as pessoas e empresas.
 
 Anos trabalhando com pessoas, hard skills estão todas em dia!
 
@@ -15,7 +15,7 @@ Anos trabalhando com pessoas, hard skills estão todas em dia!
 ## 🌱 Atualmente estou aprendendo:
 
 - **Front-end:** HTML, CSS, JavaScript, React.
-- **Back-end:** Node.js, Express.
+- **Back-end:** Node.js, Express e Java.
 - **Banco de dados:** MySQL, MongoDB.
 - **Controle de versão:** Git e GitHub.
 - **Ferramentas adicionais:** VS Code, Postman.
@@ -28,17 +28,13 @@ Anos trabalhando com pessoas, hard skills estão todas em dia!
 - Um site de portfólio desenvolvido com HTML, CSS e JavaScript.
 - Demonstra habilidades em design responsivo e boas práticas de código.
 
-### [Projeto 2 - API Simples](#)
-- API CRUD desenvolvida com Node.js e Express.
-- Integração com banco de dados MongoDB.
-
 Mais projetos em breve! 🚧
 
 ---
 
 ## 🎯 Meus objetivos:
 
-- **Curto prazo:** Aprofundar conhecimentos em React e construir projetos mais complexos.
+- **Curto prazo:** Aprofundar conhecimentos em Java e construir projetos mais complexos.
 - **Médio prazo:** Conseguir minha primeira oportunidade como desenvolvedor e contribuir para o sucesso de uma equipe.
 - **Longo prazo:** Tornar-me um desenvolvedor FullStack experiente, sempre aprendendo e compartilhando conhecimento.
 
